@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flashflood1", "Flashflood1.csproj", "{22B87915-95C1-C9C0-B514-F9AF1A555D92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flashflood1.Editor", "Flashflood1.Editor.csproj", "{20F81623-F622-B006-161C-5F2561199791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22B87915-95C1-C9C0-B514-F9AF1A555D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B87915-95C1-C9C0-B514-F9AF1A555D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B87915-95C1-C9C0-B514-F9AF1A555D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B87915-95C1-C9C0-B514-F9AF1A555D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F81623-F622-B006-161C-5F2561199791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F81623-F622-B006-161C-5F2561199791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F81623-F622-B006-161C-5F2561199791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F81623-F622-B006-161C-5F2561199791}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
